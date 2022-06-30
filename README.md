@@ -16,9 +16,13 @@ ArrowSpace takes this one step, or rather one arrowspace or more, in reverse. We
 Here I'll type out the passphrase above as it'll appear upon each insertion of the following word, replacing the natural spaces with 2 left arrowspaces, stay with me here:
 
 D0nt = Dont
+
 D0C4llnt = Dont + 2 left arrows + Call
+
 D0C4M3llnt = Dont + 2 left arrows + Call + 2 left arrows + Me
+
 D0C4%hirl3yM3llnt = Dont + 2 left arrows + Call + 2 left arrows + Me + 2 left arrows + Shirley
+
 As stated above, you can alter the number of arrowspaces, use incremental arrowspaces (1st word 1 arrowspace, 2nd word 2 arrowspaces...) etc., the idea here is that you have a password that is easy for you to recall, and more difficult for a hacker's script to guess using its dictionary lookups.
 
 Will this solve the world's password problems? No. Might it help? Perhaps. Is the author using it? Someplaces :)
